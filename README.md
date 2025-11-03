@@ -11,7 +11,7 @@ I enjoy exploring how things work under the hood — from **kernel drivers** and
 
 - 💻 **Languages:** C++, Lua, JavaScript, HTML/CSS, Node.js, Vue  
 - ⚙️ **Focus Areas:** Game reversing, internal/external mod frameworks, kernel communication, and ImGui-based GUI systems  
-- 🌐 **Also Building:** “智游粤境 / TripGo” — a smart travel platform integrating web UI, backend services, and cultural content  
+- 🌐 **Also Building:** “TripGo” — a smart travel platform integrating web UI, backend services, and cultural content  
 - 🧩 **Projects:**  
   - `HexSync` — multi-module game tool ecosystem (driver + overlay + SDK)  
   - `TripGo` — travel web platform (Node.js + Express + Vue + Tailwind)  

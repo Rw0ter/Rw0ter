@@ -5,15 +5,9 @@
 
 <!-- 🐾 Custom Font -->
 <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500&display=swap" rel="stylesheet">
-<style>
-  body {
-    font-family: 'M PLUS Rounded 1c', sans-serif;
-  }
-</style>
 
 <!-- 🌸 Anime Art Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/0fY7kVt.png" alt="catgirl banner" width="90%" style="border-radius: 15px;">
 </p>
 
 <!-- ✨ Typing Animation -->

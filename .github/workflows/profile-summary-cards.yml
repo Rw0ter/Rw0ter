@@ -1,0 +1,20 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule: # 每天自动更新
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Profile Summary Cards
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: Rw0ter
+          BRANCH_NAME: master
+          UTC_OFFSET: 8

@@ -1,106 +1,46 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=55CDFC,F7A8B8,FFFFFF,F7A8B8,55CDFC&height=200&animation=fadeIn&section=header&text=Hi~%20I'm%20Rw0ter%20喵~&fontSize=36&fontColor=ffffff" style="max-width: 100%;">
+<img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Rw0ter%20喵~%20🇨🇳&fontSize=32" style="max-width: 100%;">
+<img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=HexSync%20%7C%20TripGo%20%7C%20Cyber%20Catgirl%20Dev&fontSize=32" style="max-width: 100%;">
+    <div align="center">
+        <div style="text-align:center;">
+           <kbd align-items="center" align="center"> 
+              <img src="https://lanyard.cnrad.dev/api/1097681932139825152" alt="Discord Status">
+           </kbd>
+        </div>
+    </div>
+<p align="center">
+    <img src="https://shields.io/badge/WeChat-Rw0ter-pink?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAilBMVEUY0SEYzyEAzhIYziEAygAo0C983X6Z5JuA3oM70kAYzCFK00/W89f////l+OVk2GiP4ZKv6bF33Hrr+eyi5qQZySG87L4AwQCn5qnP8dA8z0GG3om06LXE7cVr124ZxyFW0VoZxSEawyH0/PQAvAAFvhIawiHY8tlCyUYawCFEyElfzmIbviIbvCIgSWDvAAABBklEQVR4AcSNVWLDMBAFZQip2ZiZ2W56//P1SabQf0asWWDfQFGYIjamgvm5wTSJoh+Op9P5oqvaA4xzTeP6z5UkN0PXxIfcIIFu0oal8w0mnI1Ph5bN3S3zuKfjyw9Coig44Xrh+APcY9iOolmMrk4cYUsCOAmk7tJGdD6lmZUvmhUFaq0cM5I4ZVAASK+kBduhFcObZRHclpop0dkgSgs8AiGrqiripShWiB5RLh5BVbEaFHEzywfcoK4hQXsjlE4eZdJJ2dd9NYxtEFfDg6xqyF7Sdn1fd+NDYotfNj3Q/TaLM1vxfpSwbRI5ztWne/cgH7RgvPdS/n1imuTB/qeLB9BIEgBr4EBeqVVNiwAAAABJRU5ErkJggg==" width=50%>
+    <img src="https://shields.io/badge/QQ-3288900184-pink?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA5FBMVEX////m5ubCwsKxsbHGxsY5OTkAAAB/f3+5ublBQUFJSUn29vbV1dXv7+/Y2NgrKyuSkpIwMDBzc3NpaWkdHR2enp7e3t4oGgAxIgA+LAKhcgXQkQXfnQDtqATzqQhvTwP/tQj+sAi7hAbpowjktbV5AAAzBwfxXl7zFxf1ISHoHx/IGxuuFxeWFBR/ERFtDg9gCw383d3oGBjsICDeiormAAAeKSlSCAibIyM+S0vsTEz0l5f3trb5x8dXWVnrPz/5wsL96ekSEhL/8M2QbCX/+e3+xFE5PUT+79f+wDdpURJIQTOzDrrdAAABj0lEQVR4AY2S5WKDMBhFU7s4BOru7t7Ovfb+77PA2owwPb9y8514iEAoHImEQ+QnojF4xKLf1yVwpN/r3xsyACWiAmpEASAH65q7vk5CgEFMdx/aNxNYhEqKHXWi9jdTxAEkjCS1EikjlWAhHljBBoO6E8kkCYYtrpGCh5rOZNIqPFKCoAPI5vKFYqlULORzWW/HfsIAysVKpcqoVIplFsNBwVVq9VKpXnPLQaHRbEGg1WwIQrvT7fUHw9F4MhmPhoN+r9tp++vTWa/Xm8/nXQ/WYHE29QmLZXfuOpzZvLtcEI62wnrT7jGWH/TamzVWGheiALba1aw3u765ubmdssoWQJQLDkt3hAlLvu4dAIcLFhdu/YJ1CSY84Z4tLggwP/+CBZU8XF9fP14ElXXxP5GEk4RtEB+GjaSD5DnRJ0MPvJ6bjSd6SSl3Skn84iohKV18zpTwf8IkAIVi8B0ooCTI8wts/bykjZdnIvL6Vq3ks9jRZJLukM1Xqm+vgrA/VBiF3PF0OuYKFcZhT/7HO/zFLniyR+3IAAAAAElFTkSuQmCC&style=plastic" width=50%>
+    <img src="https://komarev.com/ghpvc/?username=Rw0ter&label=Profile%20views&color=F643D2&style=flat" alt="Rw0ter" width=50%/> 
+</p>
 
-<img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=F7A8B8,FFFFFF,55CDFC,FFFFFF,F7A8B8&height=200&animation=fadeIn&section=header&text=Reverse%20Engineer%20|%20Full-Stack%20Developer%20|%20Cyber%20Catgirl&fontSize=28" style="max-width: 100%;">
+<h1 align="center">Hi~ 👋, I'm Rw0ter 🐾</h1>
+<h1 align="center">Nice to meet you~ 💫</h1>
+<h1 align="center">我喜欢代码发光的样子喵。 💞</h1>
 
 <div align="center">
-  <kbd>
-    <img src="https://lanyard.cnrad.dev/api/1138608747336720425?borderRadius=15px&idleMessage=drifting+in+code~&bg=transparent" alt="Discord Status">
-  </kbd>
+  <div>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img src="https://raw.githubusercontent.com/Rw0ter/github-profile-summary-cards/master/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img src="https://raw.githubusercontent.com/Rw0ter/github-profile-summary-cards/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+    </a>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img src="https://raw.githubusercontent.com/Rw0ter/github-profile-summary-cards/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img src="https://raw.githubusercontent.com/Rw0ter/github-profile-summary-cards/master/profile-summary-card-output/tokyonight/3-stats.svg" />
+    </a>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img src="https://raw.githubusercontent.com/Rw0ter/github-profile-summary-cards/master/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+    </a>
+  </div>
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/WeChat-Rw0ter-pink?logo=wechat&logoColor=white&style=for-the-badge" width="45%">
-  <img src="https://img.shields.io/badge/QQ-2631079889-55CDFC?logo=tencentqq&logoColor=white&style=for-the-badge" width="45%">
-  <img src="https://komarev.com/ghpvc/?username=Rw0ter&label=Profile%20views&color=F7A8B8&style=flat" alt="views" width="50%">
+<p dir="auto" align="center">
+<img src="https://i.imgur.com/4O1DFeO.png" width="50%">
 </p>
-
-<h1 align="center">🐾 こんにちは, I'm Rw0ter~ 🐾</h1>
-<h3 align="center">A reverse engineer & full-stack developer with cat ears, nya~</h3>
-<h3 align="center">好きなこと: カーネル, メモリ, 可愛いUI 💻💞</h3>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/luadebug/test-card/master/profile-summary-card-output/tokyonight/0-profile-details.svg" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/luadebug/test-card/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/luadebug/test-card/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/luadebug/test-card/master/profile-summary-card-output/tokyonight/3-stats.svg" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/luadebug/test-card/master/profile-summary-card-output/tokyonight/4-productive-time.svg" />
-  </a>
-</div>
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/ZTVJkA0.png" width="60%" alt="Anime Catgirl">
-</p>
-
-<h1 align="center">✍️ Random Dev Quote</h1>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-</p>
-
----
-
-<h2 align="center">🌈 About Me</h2>
-
-<p align="center">
-I’m <strong>Rw0ter</strong> — a playful yet focused <strong>reverse engineer</strong> and <strong>full-stack developer</strong>.<br>
-I create from the lowest <em>kernel space</em> to the prettiest <em>front-end UI</em>, blending elegance and performance.<br>
-When I'm not writing code, I'm probably debugging memory or sketching UI mockups~ 🩵💗🤍
-</p>
-
----
-
-<h2 align="center">⚙️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,lua,js,nodejs,vue,react,tailwind,html,css,git,linux,vscode" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rw0ter&show_icons=true&theme=tokyonight&title_color=F7A8B8&icon_color=55CDFC&hide_border=true&bg_color=0D1117" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rw0ter&layout=compact&theme=tokyonight&title_color=55CDFC&hide_border=true&bg_color=0D1117" height="165">
-</p>
-
----
-
-<h2 align="center">🐾 Fun Fact</h2>
-
-<p align="center">
-「コードは魔法じゃない。でも、人間が持つ一番近いものだにゃ。」<br><br>
-I debug like a cat — quiet, precise, and curious.<br>
-Every line of code is another thread in the web of my digital world~
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/wave.svg" width="100%" height="80px" alt="wave animation"/>
-</p>
-
-<h3 align="center">💞 Made with love, code, and a bit of cat magic 🐈‍⬛</h3>
-
-<img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=55CDFC,F7A8B8,FFFFFF,F7A8B8,55CDFC&height=120&section=footer&animation=twinkling">

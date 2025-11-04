@@ -19,7 +19,7 @@
 
 ---
 
-### 🐱 About Me
+### About Me
 
 Konnichiwa~ I’m **Rw0ter (ルオター)** —  
 A playful **cyber catgirl developer** who hacks systems and builds worlds between **low-level code** and **high-level design**.  

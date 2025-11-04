@@ -15,31 +15,8 @@
 
 <h1 align="center">Hi~ 👋, I'm Rw0ter 🐾</h1>
 <h1 align="center">Nice to meet you~ 💫</h1>
-<h1 align="center">我喜欢代码发光的样子喵。 💞</h1>
+<h1 align="center"> 没关系的，大家都会做错选择，会莫名其妙掉眼泪，走在路上会突然崩溃，但这并不影响我吃麦当劳 💞</h1>
 
-<div align="center">
-  <div>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img src="https://raw.githubusercontent.com/Rw0ter/github-profile-summary-cards/master/profile-summary-card-output/tokyonight/0-profile-details.svg" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img src="https://raw.githubusercontent.com/Rw0ter/github-profile-summary-cards/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-    </a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img src="https://raw.githubusercontent.com/Rw0ter/github-profile-summary-cards/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img src="https://raw.githubusercontent.com/Rw0ter/github-profile-summary-cards/master/profile-summary-card-output/tokyonight/3-stats.svg" />
-    </a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img src="https://raw.githubusercontent.com/Rw0ter/github-profile-summary-cards/master/profile-summary-card-output/tokyonight/4-productive-time.svg" />
-    </a>
-  </div>
-</div>
 
 <p dir="auto" align="center">
 <img src="https://i.imgur.com/4O1DFeO.png" width="50%">

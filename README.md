@@ -1,48 +1,76 @@
-<!-- 🏳️‍⚧️ Header with Animated Wave -->
+<img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=55CDFC,F7A8B8,FFFFFF,F7A8B8,55CDFC&height=200&animation=fadeIn&section=header&text=Hi~%20I'm%20Rw0ter%20喵~&fontSize=36&fontColor=ffffff" style="max-width: 100%;">
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=F7A8B8,FFFFFF,55CDFC,FFFFFF,F7A8B8&height=200&animation=fadeIn&section=header&text=Reverse%20Engineer%20|%20Full-Stack%20Developer%20|%20Cyber%20Catgirl&fontSize=28" style="max-width: 100%;">
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=55CDFC,F7A8B8,FFFFFF,F7A8B8,55CDFC&height=160&section=header&text=Rw0ter%20喵~&fontAlign=70&fontAlignY=35&fontColor=ffffff&fontSize=60&font=Righteous&desc=Cyber%20Catgirl%20Developer%20%7C%20Reverse%20Engineer%20%7C%20System%20Architect&descAlign=70&descAlignY=55" />
+  <kbd>
+    <img src="https://lanyard.cnrad.dev/api/1138608747336720425?borderRadius=15px&idleMessage=drifting+in+code~&bg=transparent" alt="Discord Status">
+  </kbd>
 </div>
 
-<!-- 🐾 Custom Font -->
-<link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500&display=swap" rel="stylesheet">
+<br>
 
-<!-- 🌸 Anime Art Banner -->
 <p align="center">
+  <img src="https://img.shields.io/badge/WeChat-Rw0ter-pink?logo=wechat&logoColor=white&style=for-the-badge" width="45%">
+  <img src="https://img.shields.io/badge/QQ-2631079889-55CDFC?logo=tencentqq&logoColor=white&style=for-the-badge" width="45%">
+  <img src="https://komarev.com/ghpvc/?username=Rw0ter&label=Profile%20views&color=F7A8B8&style=flat" alt="views" width="50%">
 </p>
 
-<!-- ✨ Typing Animation -->
-<p align="center">
-  <a href="https://github.com/Rw0ter">
-    <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=500&size=22&pause=1000&color=55CDFC&center=true&vCenter=true&width=600&lines=Hi~+I'm+Rw0ter+nya~;Reverse+Engineer+with+Cat+Ears;Full-Stack+Developer+%26+Kernel+Tinkerer;C%2B%2B+%7C+Lua+%7C+Node.js+%7C+Vue;Creating+HexSync+and+TripGo" alt="Typing SVG" />
+<h1 align="center">🐾 こんにちは, I'm Rw0ter~ 🐾</h1>
+<h3 align="center">A reverse engineer & full-stack developer with cat ears, nya~</h3>
+<h3 align="center">好きなこと: カーネル, メモリ, 可愛いUI 💻💞</h3>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/luadebug/test-card/master/profile-summary-card-output/tokyonight/0-profile-details.svg" />
   </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/luadebug/test-card/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/luadebug/test-card/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/luadebug/test-card/master/profile-summary-card-output/tokyonight/3-stats.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/luadebug/test-card/master/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/ZTVJkA0.png" width="60%" alt="Anime Catgirl">
+</p>
+
+<h1 align="center">✍️ Random Dev Quote</h1>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </p>
 
 ---
 
-### About Me
+<h2 align="center">🌈 About Me</h2>
 
-Konnichiwa~ I’m **Rw0ter (ルオター)** —  
-A playful **cyber catgirl developer** who hacks systems and builds worlds between **low-level code** and **high-level design**.  
-When I’m not deep inside kernel space, I’m sketching UI dreams in pastel pixels 🩵💗🤍.
-
-- 💻 **Languages:** C++, Lua, JavaScript, Node.js, Vue  
-- ⚙️ **Focus:** Game reversing, kernel memory mapping, ImGui overlays, CR3-level drivers  
-- 🌐 **Projects:**  
-  - 🧩 `HexSync` — game engine toolkit (driver + overlay + SDK)  
-  - 🌏 `TripGo` — smart travel platform 「智游粤境」 (Node.js + Express + Vue + Tailwind)
+<p align="center">
+I’m <strong>Rw0ter</strong> — a playful yet focused <strong>reverse engineer</strong> and <strong>full-stack developer</strong>.<br>
+I create from the lowest <em>kernel space</em> to the prettiest <em>front-end UI</em>, blending elegance and performance.<br>
+When I'm not writing code, I'm probably debugging memory or sketching UI mockups~ 🩵💗🤍
+</p>
 
 ---
 
-### 🌈 What I'm Exploring
-
-- 🧠 Virtualization & VT-x shadow hooks  
-- 🐾 CR3-based memory translation  
-- 🌸 DX11 overlay rendering and glow systems  
-- 💫 UI/UX design with pastel gradients and clean layouts  
-
----
-
-### 💼 Tech Stack
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,lua,js,nodejs,vue,react,tailwind,html,css,git,linux,vscode" />
@@ -50,49 +78,29 @@ When I’m not deep inside kernel space, I’m sketching UI dreams in pastel pix
 
 ---
 
-### 📈 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rw0ter&show_icons=true&theme=transparent&hide_border=true&title_color=F7A8B8&icon_color=55CDFC" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rw0ter&layout=compact&theme=transparent&hide_border=true&title_color=55CDFC" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rw0ter&theme=transparent&hide_border=true&ring=F7A8B8&fire=55CDFC&currStreakNum=000000" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rw0ter&show_icons=true&theme=tokyonight&title_color=F7A8B8&icon_color=55CDFC&hide_border=true&bg_color=0D1117" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rw0ter&layout=compact&theme=tokyonight&title_color=55CDFC&hide_border=true&bg_color=0D1117" height="165">
 </p>
 
 ---
 
-### 🌊 Animated Background
+<h2 align="center">🐾 Fun Fact</h2>
+
+<p align="center">
+「コードは魔法じゃない。でも、人間が持つ一番近いものだにゃ。」<br><br>
+I debug like a cat — quiet, precise, and curious.<br>
+Every line of code is another thread in the web of my digital world~
+</p>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/wave.svg" width="100%" height="80px" alt="wave animation"/>
 </p>
 
----
+<h3 align="center">💞 Made with love, code, and a bit of cat magic 🐈‍⬛</h3>
 
-### 🐾 Fun Fact
-
-> “I debug like a cat — silently stalking the bug before the final pounce.”  
-
-When not coding, I’m probably sipping milk tea, sketching UI wireframes, or customizing my kernel hooks for fun (and chaos).  
-
----
-
-### 💌 Contact
-
-- 📧 Email: *[coming soon]*  
-- 💬 Always open for nerdy talks about system design, overlay rendering, or neko-powered development~  
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rw0ter&style=for-the-badge&color=F7A8B8" alt="Profile Views"/>
-</div>
-
-<!-- 🩵 Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=55CDFC,F7A8B8,FFFFFF,F7A8B8,55CDFC&height=120&section=footer"/>
-</div>
-
-⭐ **「コードは魔法じゃない。でも、人間が持つ一番近いものだにゃ。」**
+<img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=55CDFC,F7A8B8,FFFFFF,F7A8B8,55CDFC&height=120&section=footer&animation=twinkling">

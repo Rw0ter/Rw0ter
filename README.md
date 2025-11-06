@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=Rw0ter&label=Profile%20views&color=F643D2&style=flat" alt="Rw0ter" width=50%/> 
 </p>
 
-<h1 align="center">Hi~ 👋, I'm Rw0ter 🐾</h1>
+<h1 align="center">Meow~ 👋, I'm Rw0ter 🐾</h1>
 <h1 align="center">Nice to meet you~ 💫</h1>
 <h1 align="center"> 没关系的，大家都会做错选择，会莫名其妙掉眼泪，走在路上会突然崩溃，但这并不影响我吃麦当劳 💞</h1>
 

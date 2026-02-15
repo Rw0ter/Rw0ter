@@ -1,16 +1,52 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Rw0ter%20喵~&fontSize=32" style="max-width: 100%;">
-<img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=HexSync%20%7C%20TripGo%20%7C%20xnn%20Dev&fontSize=32" style="max-width: 100%;">
+<!-- 顶部动态渐变科技风 -->
+
 <p align="center">
-    <img src="https://shields.io/badge/WeChat-Rw0ter-pink?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAilBMVEUY0SEYzyEAzhIYziEAygAo0C983X6Z5JuA3oM70kAYzCFK00/W89f////l+OVk2GiP4ZKv6bF33Hrr+eyi5qQZySG87L4AwQCn5qnP8dA8z0GG3om06LXE7cVr124ZxyFW0VoZxSEawyH0/PQAvAAFvhIawiHY8tlCyUYawCFEyElfzmIbviIbvCIgSWDvAAABBklEQVR4AcSNVWLDMBAFZQip2ZiZ2W56//P1SabQf0asWWDfQFGYIjamgvm5wTSJoh+Op9P5oqvaA4xzTeP6z5UkN0PXxIfcIIFu0oal8w0mnI1Ph5bN3S3zuKfjyw9Coig44Xrh+APcY9iOolmMrk4cYUsCOAmk7tJGdD6lmZUvmhUFaq0cM5I4ZVAASK+kBduhFcObZRHclpop0dkgSgs8AiGrqiripShWiB5RLh5BVbEaFHEzywfcoK4hQXsjlE4eZdJJ2dd9NYxtEFfDg6xqyF7Sdn1fd+NDYotfNj3Q/TaLM1vxfpSwbRI5ztWne/cgH7RgvPdS/n1imuTB/qeLB9BIEgBr4EBeqVVNiwAAAABJRU5ErkJggg==" width=50%>
-    <img src="https://shields.io/badge/QQ-3288900184-pink?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA5FBMVEX////m5ubCwsKxsbHGxsY5OTkAAAB/f3+5ublBQUFJSUn29vbV1dXv7+/Y2NgrKyuSkpIwMDBzc3NpaWkdHR2enp7e3t4oGgAxIgA+LAKhcgXQkQXfnQDtqATzqQhvTwP/tQj+sAi7hAbpowjktbV5AAAzBwfxXl7zFxf1ISHoHx/IGxuuFxeWFBR/ERFtDg9gCw383d3oGBjsICDeiormAAAeKSlSCAibIyM+S0vsTEz0l5f3trb5x8dXWVnrPz/5wsL96ekSEhL/8M2QbCX/+e3+xFE5PUT+79f+wDdpURJIQTOzDrrdAAABj0lEQVR4AY2S5WKDMBhFU7s4BOru7t7Ovfb+77PA2owwPb9y8514iEAoHImEQ+QnojF4xKLf1yVwpN/r3xsyACWiAmpEASAH65q7vk5CgEFMdx/aNxNYhEqKHXWi9jdTxAEkjCS1EikjlWAhHljBBoO6E8kkCYYtrpGCh5rOZNIqPFKCoAPI5vKFYqlULORzWW/HfsIAysVKpcqoVIplFsNBwVVq9VKpXnPLQaHRbEGg1WwIQrvT7fUHw9F4MhmPhoN+r9tp++vTWa/Xm8/nXQ/WYHE29QmLZXfuOpzZvLtcEI62wnrT7jGWH/TamzVWGheiALba1aw3u765ubmdssoWQJQLDkt3hAlLvu4dAIcLFhdu/YJ1CSY84Z4tLggwP/+CBZU8XF9fP14ElXXxP5GEk4RtEB+GjaSD5DnRJ0MPvJ6bjSd6SSl3Skn84iohKV18zpTwf8IkAIVi8B0ooCTI8wts/bykjZdnIvL6Vq3ks9jRZJLukM1Xqm+vgrA/VBiF3PF0OuYKFcZhT/7HO/zFLniyR+3IAAAAAElFTkSuQmCC&style=plastic" width=50%>
-    <img src="https://komarev.com/ghpvc/?username=Rw0ter&label=Profile%20views&color=F643D2&style=flat" alt="Rw0ter" width=50%/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=240&section=header&text=Rw0ter%20喵~&fontSize=38&fontColor=00F7FF&animation=fadeIn&descAlign=50&descAlignY=75"/>
 </p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1f1c2c&height=120&section=header&text=HexSync%20%7C%20TripGo%20%7C%20xnn%20Dev&fontSize=28&fontColor=00F7FF&animation=twinkling"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=System+Booting...;Initializing+HexSync+Core;Loading+TripGo+Backend;Kernel+Mode+Ready" />
+</p>
+
+---
+
+<p align="center">
+    <img src="https://shields.io/badge/WeChat-Rw0ter-00F7FF?style=for-the-badge&logoColor=black" height="28">
+    <img src="https://shields.io/badge/QQ-3288900184-FF00C8?style=for-the-badge&logoColor=black" height="28">
+    <img src="https://komarev.com/ghpvc/?username=Rw0ter&label=PROFILE%20SIGNAL&color=00F7FF&style=for-the-badge" height="28"/> 
+</p>
+
+---
 
 <h1 align="center">Meow~ 👋, I'm Rw0ter 🐾</h1>
 <h1 align="center">Nice to meet you~ 💫</h1>
 <h1 align="center"> 没关系的，大家都会做错选择，会莫名其妙掉眼泪，走在路上会突然崩溃，但这并不影响我吃麦当劳 💞</h1>
 
+---
 
-<p dir="auto" align="center">
-<img src="https://i.imgur.com/X9Zy0Ar.jpeg" width="50%">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rw0ter&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rw0ter&theme=tokyonight&hide_border=true&background=00000000" width="48%">
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rw0ter&theme=tokyo-night&hide_border=true&bg_color=00000000" width="95%">
+</p>
+
+---
+
+<p align="center">
+<img src="https://i.imgur.com/X9Zy0Ar.jpeg" width="50%" style="border-radius:20px;box-shadow:0 0 25px #00f7ff;">
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:243B55,100:141E30&height=120&section=footer"/>
 </p>

@@ -50,7 +50,15 @@
 <!-- 头像增加粉色霓虹光 -->
 
 <p align="center">
-<img src="https://imgur.com/a/KF6cqH9" width="50%" style="border-radius:20px;box-shadow:0 0 35px #FD70A1;">
+  <video 
+    src="https://i.imgur.com/2SEPM2q.mp4" 
+    width="50%" 
+    autoplay 
+    loop 
+    muted 
+    playsinline
+    style="border-radius:20px;box-shadow:0 0 35px #FD70A1;">
+  </video>
 </p>
 
 ---

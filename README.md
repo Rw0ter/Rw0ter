@@ -37,7 +37,6 @@
 <!-- GitHub 数据面板透明背景适配粉色 -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rw0ter&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="48%">
 
 </p>
 

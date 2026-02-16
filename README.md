@@ -50,7 +50,7 @@
 <!-- 头像增加粉色霓虹光 -->
 
 <p align="center">
- <img src="https://i.imgur.com/uPTE0sJ.gif" width="50%" style="border-radius:20px;box-shadow:0 0 35px #FD70A1;">
+ <img src="https://i.imgur.com/rnAE7yF.jpeg" width="50%" style="border-radius:20px;box-shadow:0 0 35px #FD70A1;">
 </p>
 
 ---

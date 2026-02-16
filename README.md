@@ -41,8 +41,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Rw0ter&theme=radical&hide_border=true&background=00000000" width="48%">
 </p>
 
-1
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rw0ter&theme=react&hide_border=true&bg_color=00000000&color=FD70A1&line=FD70A1&point=FEBCD3" width="95%">
 </p>

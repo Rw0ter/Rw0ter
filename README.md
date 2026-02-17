@@ -1,7 +1,7 @@
 <!-- 顶部 Pink 科技渐变 -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FD70A1,50:FEBCD3,100:FD70A1&height=240&section=header&text=Rw0terX's%20Home%20Meow&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FD70A1,50:FEBCD3,100:FD70A1&height=240&section=header&text=Rw0terX%20Meow&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">

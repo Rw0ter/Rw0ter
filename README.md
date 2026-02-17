@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FEBCD3,100:FD70A1&height=120&section=header&text=HexSync%20%7C%20TripGo%20%7C%20xnn%20Dev&fontSize=28&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FEBCD3,100:FD70A1&height=120&section=header&text=HexSync%20%7C%20TripGo%20%7C%20XinChat&fontSize=28&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 ---
